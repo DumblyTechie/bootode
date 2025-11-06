@@ -47,4 +47,4 @@ Now, tell Sass to "watch" your file. It will automatically re-compile it into ma
 Note: This will create a main.css and main.css.map file in your directory.  
   
 ## Step 4. Update Your index.html  
-Finally, change your index.html to link to your newly compiled CSS file instead of the one from node_modules.  
+Finally, change your index.html to link to your newly compiled CSS file.  
